@@ -284,6 +284,9 @@ footer {
 }
 
 @media (max-width: 670px) {
+  html {
+    font-size: 18px;
+  }
   .main {
     padding: 0 $padMobileXs;
   }
