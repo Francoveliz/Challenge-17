@@ -2,6 +2,8 @@
 
 ![Design preview for the Fylo landing page with dark theme and features grid challenge](./design/desktop-preview.jpg)
 
+[**LIVE DEMO**](https://fylo-landing-page-with-dark-theme-and-features-grid.netlify.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
